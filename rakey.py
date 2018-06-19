@@ -233,7 +233,7 @@ def myhelp():
                   "°•คำสั่งโซเชียล" + "\n" + \
                   "°•คำสั่งคิก" + "\n" + \
                   "°•คำสั่งกลุ่ม" + "\n" + \
-                  "°•Help protect" + "\n" + \
+                  "°•คำสั่งเซ็ท" + "\n" + \
                   "°•คำสั่งตั้งค่า" + "\n" + \
                   "°•คำสั่งสิริพูด" + "\n" + \
                   "°•คำสั่งแปล" + "\n" + \
@@ -283,8 +283,10 @@ def listgrup():
                   "•°Reject inv" + "\n" + \
                   "•°Allban" + "\n" + \
                   "•°Grouplist" + "\n" + \
-                  "•°Blist" + "\n" + \
+                  "•°รายชื่อดำ" + "\n" + \
                   "•°แทค" + "\n" + \
+                  "•°แบน" + "\n" + \
+                  "•°เลิกแบน" + "\n" + \
                   "•°Lurking on" + "\n" + \
                   "•°Lurking off" + "\n" + \
                   "•°Lurking reset" + "\n" + \
@@ -677,7 +679,7 @@ def lineBot(op):
                 elif text.lower() == 'about':
                     try:
                         arr = []
-                        owner = "u7a4febc4c650fc7679eadf4245c2a5ad"
+                        owner = "u3930826c2f2dbf7b11a27efbcc37add"
                         creator = line.getContact(owner)
                         contact = line.getContact(lineMID)
                         grouplist = line.getGroupIdsJoined()
@@ -3546,7 +3548,7 @@ def lineBot(op):
                          if settings['detectMention'] == True:
                              contact = line.getContact(msg._from)
                              cName = contact.displayName
-                             balas = ["『 ตอบอัตโนมัติ 』\n " + cName + "\n『แทคงี้ชอบเค้าหรา』"]
+                             balas = ["มีไรสัส\n " + cName + "\nชอบกุหราา"]
                              ret_ = "" + random.choice(balas)
                              name = re.findall(r'@(\w+)', msg.text)
                              mention = ast.literal_eval(msg.contentMetadata["MENTION"])
@@ -3568,17 +3570,17 @@ def lineBot(op):
                     line.sendText(msg.to,"ขำอะไรนักหนา-.-")	
                 if msg.text in dangerMessage:
                     random.choice(Rfu).kickoutFromGroup(receiver,[sender])
-                    random.choice(Rfu).sendText(msg.to,"ตรวจพบคำสั่งของบอทลบกลุ่ม จำเป็นต้องนำออกเพื่อความปลอดภัยของสมาชิก โจ๊ะๆ (｀・ω・´)")										
+                    random.choice(Rfu).sendText(msg.to,"ตรวจพบคำสั่งของบอทลบกลุ่ม จำเป็นต้องนำออกเพื่อความปลอดภัยของสมาชิก โจ๊ะๆ ω´)")										
         if op.type == 17:
         	dan = line.getContact(op.param2)
         	tgb = line.getGroup(op.param1)
-        	line.sendMessage(op.param1, "สวัสดี {}, Welcome to Group {}\nเข้ามาแล้วทำตัวดีๆละ\nอ่ย่าไปเป็นบ้าลบเพื่อนๆออกกลุ่มนะ (｀・ω・´)".format(str(dan.displayName),str(tgb.name)))
+        	line.sendMessage(op.param1, "สวัสดี {}, Welcome to Group {}\nยินดีต้อนรับหมาน้อย・ω・".format(str(dan.displayName),str(tgb.name)))
         	line.sendContact(op.param1, op.param2)
         	line.sendImageWithURL(op.param1, "http://dl.profile.line-cdn.net{}".format(dan.picturePath))
         if op.type == 15:
         	dan = line.getContact(op.param2)
         	tgb = line.getGroup(op.param1)
-        	line.sendMessage(op.param1, "ง้ะ {}, ได้ออกจากกลุ่ม {} \nยืนไว้อาลัยแด่เขาเป็นเวลา3วินาที งุงิ (｀・ω・´)".format(str(dan.displayName),str(tgb.name)))
+        	line.sendMessage(op.param1, "อุ้ย!! {}, ได้ออกจากกลุ่ม {} \nยืนไว้อาลัยนะคับ งุงิ・ω・".format(str(dan.displayName),str(tgb.name)))
         	line.sendContact(op.param1, op.param2)
         if op.type == 55:
             try:
