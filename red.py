@@ -426,6 +426,7 @@ def listgrup():
 ╠❂➣ เปิด/ปิดทักเตะ
 ╠❂➣ เปิด/ปิดพูด
 ╠❂➣ เปิด/ปิดตรวจสอบ
+╠❂➣ สำรองห้อง
 ╠❂➣ เช็คดำ
 ╠❂➣ ลงดำ
 ╠❂➣ ล้างดำ
@@ -491,6 +492,7 @@ def helpset():
 ╠❂➣ เวลออน
 ╠❂➣ ดำ
 ╠❂➣ ขาว
+╠❂➣ คทแบน
 ╠❂➣ แบน @
 ╠❂➣ ลบแบน @
 ╠❂➣ บล็อค @
@@ -1171,7 +1173,7 @@ def lineBot(op):
 
                 elif msg.text in [".คืนร่าง"]:
                     try:
-                        #line.updateProfile.pictureStatus(backup.pictureStatus)
+                        line.updateProfile.pictureStatus(backup.pictureStatus)
                         line.updateProfile.statusMessage(backup.statusMessage)
                         line.updateProfile.displayName(backup.displayName)
                         line.sendMessage(msg.to, "กลับร่างเดิมแล้ว")
@@ -1400,7 +1402,7 @@ def lineBot(op):
                                gcmid = "Error"
                            if settings["lang"] == "JP":
                                line.inviteIntoGroup(receiver,[gcmid])
-                               line.sendMessage(receiver, "พิมพ์คำเชิญกลุ่ม")
+                               line.sendMessage(receiver, "พิมพ์คำเชิญกลุ่มแล้ว")
                            else:
                                line.inviteIntoGroup(receiver,[gcmid])
                                line.sendMessage(receiver, "ผู้สร้างกลุ่มอยู่ในแล้ว")
@@ -1599,6 +1601,14 @@ def lineBot(op):
                            line.sendText(g.mid,"RED SAMURI")
                            line.sendText(msg.to, "Done")
                            print (" Spammed !")
+                elif ".สำรองห้อง" in msg.text:
+                    thisgroup = line.getGroups([msg.to])
+                    Mids = [contact.mid for contact in thisgroup[0].members]
+                    mi_d = Mids[:33]
+                    line.createGroup("RED SAMURI SELFBOT", mi_d)
+                    line.sendText(msg.to,"REDSAMURAI")
+                    line.createGroup("RED SAMURI SELFBOT", mi_d)
+                    line.sendText(msg.to,"REDSAMURAI")
                 elif ".รัน: " in msg.text.lower():
                         key = msg.text[-33:]
                         line.findAndAddContactsByMid(key)                   
@@ -3248,6 +3258,20 @@ def lineBot(op):
                         num=(num+1)
                     msgs+="\n🎎รายชื่อเพื่อนทั้งหมด🎎\n\nมีดังต่อไปนี้ : %i" % len(kontak)
                     line.sendMessage(msg.to, msgs)
+			
+                elif msg.text in ["Conban",".คทแบน","Contact ban"]:
+                    if wait["blacklist"] == {}:
+                        line.sendText(msg.to,"Tidak Ada Blacklist")
+                    else:
+                        line.sendText(msg.to,"Daftar Blacklist")
+                        h = ""
+                        for i in wait["blacklist"]:
+                            h = cl.getContact(i)
+                            M = Message()
+                            M.to = msg.to
+                            M.contentType = 13
+                            M.contentMetadata = {'mid': i}
+                            line.sendMessage(M)
 
                 elif msg.text in [".เช็คบล็อค"]: 
                     blockedlist = line.getBlockedContactIds()
@@ -3926,35 +3950,35 @@ def lineBot(op):
                 elif msg.text.lower() == '.เปิดคท':
                         if settings["checkContact"] == True:
                             if settings["lang"] == "JP":
-                                line.sendMessage(to,"เปิดระบบอ่านข้อมูลด้วยคอนแทค ")
+                                line.sendMessage(to,"เปิดระบบอ่านข้อมูลด้วยคอนแทคไว้อยู่แล้ว ")
                         else:
                             settings["checkContact"] = True
                             if settings["lang"] == "JP":
-                                line.sendMessage(to,"เปิดระบบอ่านข้อมูลด้วยคอนแทคไว้อยู่แล้ว ")
+                                line.sendMessage(to,"เปิดระบบอ่านข้อมูลด้วยคอนแทค ")
                 elif msg.text.lower() == '.ปิดคท':
                         if settings["checkContact"] == False:
                             if settings["lang"] == "JP":
-                                line.sendMessage(to,"ปิดระบบอ่านข้อมูลด้วยคอนแทค ")
+                                line.sendMessage(to,"ปิดระบบอ่านข้อมูลด้วยคอนแทคไว้อยู่แล้ว ")
                         else:
                             settings["checkContact"] = False
                             if settings["lang"] == "JP":
-                                line.sendMessage(to,"ปิดระบบอ่านข้อมูลด้วยคอนแทคไว้อยู่แล้ว ")
+                                line.sendMessage(to,"ปิดระบบอ่านข้อมูลด้วยคอนแทค ")
                 elif msg.text.lower() == '.เปิดเช็คโพส':
                         if settings["checkPost"] == True:
                             if settings["lang"] == "JP":
-                                line.sendMessage(to,"เปิดระบบเช็คโพสบนทามไลน์" )
+                                line.sendMessage(to,"เปิดระบบเช็คโพสบนทามไลน์ไว้อยู่แล้ว" )
                         else:
                             settings["checkPost"] = True
                             if settings["lang"] == "JP":
-                                line.sendMessage(to,"เปิดระบบเช็คโพสบนทามไลน์อยู่แล้ว ")
+                                line.sendMessage(to,"เปิดระบบเช็คโพสบนทามไลน์ ")
                 elif msg.text.lower() == '.ปิดเช็คโพส':
                         if settings["checkPost"] == False:
                             if settings["lang"] == "JP":
-                                line.sendMessage(to,"ปิดระบบเช็คโพสบนทามไลน์ ")
+                                line.sendMessage(to,"ปิดระบบเช็คโพสบนทามไลน์ไว้อยู่แล้ว ")
                         else:
                             settings["checkPost"] = False
                             if settings["lang"] == "JP":
-                                line.sendMessage(to,"ปิดระบบเช็คโพสบนทามไลน์ไว้อยู่แล้ว ")
+                                line.sendMessage(to,"ปิดระบบเช็คโพสบนทามไลน์ ")
                 elif text.lower() == ".แปลงโฉม":
                     settings["changePictureProfile"] = True
                     line.sendMessage(to, "ส่งรูปภาพลงมาได้เลยครับผม")
