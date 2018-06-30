@@ -1,0 +1,546 @@
+
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] TalkException(code=0, reason='picture cannot be changed by user directly', parameterMap=None)
+[<module 'time' (built-in)>] 'Message' object has no attribute 'from_'
+[<module 'time' (built-in)>] TalkException(code=0, reason='unable to find midType', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=0, reason='unable to find midType', parameterMap={})
+[<module 'time' (built-in)>] 'checkContact'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not subscriptable
+[<module 'time' (built-in)>] 'NoneType' object is not subscriptable
+[<module 'time' (built-in)>] 'NoneType' object is not subscriptable
+[<module 'time' (built-in)>] 'NoneType' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] name 'setting' is not defined
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] 'int' object is not subscriptable
+[<module 'time' (built-in)>] module 'urllib' has no attribute 'quote'
+[<module 'time' (built-in)>] [Errno 110] Connection timed out
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 110] Connection timed out
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'like'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'new_post'
+[<module 'time' (built-in)>] name 'banned' is not defined
+[<module 'time' (built-in)>] name 'banned' is not defined
+[<module 'time' (built-in)>] name 'data_fetch' is not defined
+[<module 'time' (built-in)>] name 'urllib2' is not defined
+[<module 'time' (built-in)>] HTTP Error 401: Unauthorized
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'post'
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] name 'lineMid' is not defined
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'new_post'
+[<module 'time' (built-in)>] name 'banned' is not defined
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] 'str' object has no attribute 'items'
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'banned' is not defined
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] Download object failure.
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] 'Aip'
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] 'unsendMessage'
+[<module 'time' (built-in)>] 'unsendMessage'
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] 'unsendMessage'
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] local variable 'line' referenced before assignment
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] replace() takes at least 2 arguments (1 given)
+[<module 'time' (built-in)>] replace() takes at least 2 arguments (1 given)
+[<module 'time' (built-in)>] name 'banned' is not defined
+[<module 'time' (built-in)>] int() argument must be a string, a bytes-like object or a number, not 'list'
+[<module 'time' (built-in)>] int() argument must be a string, a bytes-like object or a number, not 'list'
+[<module 'time' (built-in)>] name 'banned' is not defined
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 'setTime'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'huio'
+[<module 'time' (built-in)>] sendMessage() takes from 3 to 5 positional arguments but 7 were given
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'Message' object has no attribute 'from_'
+[<module 'time' (built-in)>] 'Message' object has no attribute 'from_'
+[<module 'time' (built-in)>] 'Message' object has no attribute 'from_'
+[<module 'time' (built-in)>] 'Message' object has no attribute 'from_'
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] sendMessage() missing 1 required positional argument: 'text'
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[<module 'time' (built-in)>] name 'profile' is not defined
+[<module 'time' (built-in)>] ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] name 'linegetContact' is not defined
+[<module 'time' (built-in)>] name 'traceback' is not defined
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
