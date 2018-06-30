@@ -21,6 +21,4 @@
 20. nano red.py
 
 
-1.* by: RED SAMURAI SELFBOT
-2.* ™❍✯͜͡REDSAMURAI✯͜͡❂➣
-3.* สนใจติดต่อสอบถามเพิ่มเติม โทรมาไ้ที่เบอร์ 094 634 5913
+* by: RED SAMURAI SELFBOT ™❍✯͜͡REDSAMURAI✯͜͡❂➣ สนใจติดต่อสอบถามเพิ่มเติม โทรมาไ้ที่เบอร์ 094 634 5913
