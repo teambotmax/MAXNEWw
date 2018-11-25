@@ -1,10 +1,10 @@
-# samurai
+   ☆•kitty•☆
 1. apt update
 2. apt upgrade
 3. pkg install python3
 4. pkg install pip3
 5. pkg install git
-6. git clone https://github.com/redsamuri5/samurai.git
+6. git clone https://github.com/chivaree/chivaree
 7. pkg install nano
 8. pip3 install rsa
 9. pip3 install thrift==0.11.0
@@ -17,8 +17,9 @@
 16. pip3 install antolib
 17. pip3 install linepy
 18. pip3 install akad
-19. cd samurai 
-20. nano red.py
+19. cd chivaree
+20. nano kitty.py
+21. python3 kitty.py
 
 
-* by: RED SAMURAI SELFBOT ™❍✯͜͡REDSAMURAI✯͜͡❂➣ สนใจติดต่อสอบถามเพิ่มเติม โทรมาไ้ที่เบอร์ 094 634 5913
+* by: เอจัง
