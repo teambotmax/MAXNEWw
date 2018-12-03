@@ -1,5 +1,6 @@
-     HEŁŁO KITTY
-   🌟•เชลบอทฟรุ้งฟริ้งมุ้งมิ้ง โดยเอจัง•🌟
+  💗•💗 HEŁŁO KITTY 💗•💗
+    ✯•ֆҽℓƒ-β❂T-ՃิՁণຮี•✯ 
+🌀•เชลบอทฟรุ้งฟริ้งมุ้งมิ้ง โดยเอจัง•🌀
 1. apt update
 2. apt upgrade
 3. pkg install python3
@@ -22,6 +23,6 @@
 20. nano kitty.py
 21. python3 kitty.py
 
-
+       ไวรัสสีชมพูน่ารัก~🌟
 * by:  รักน่ะจุ้ฟป้อก : ชิวารี
         Cr.Chivaree®
