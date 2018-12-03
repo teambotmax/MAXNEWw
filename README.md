@@ -21,8 +21,6 @@
 19. cd chivaree
 20. nano kitty.py
 21. python3 kitty.py 
-
-
 Virus Kitty 
 by:A jang
 ID Line:chivaree
