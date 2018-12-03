@@ -22,7 +22,7 @@
 20. nano kitty.py
 21. python3 kitty.py 
 
-  ✯•ֆҽℓƒ-β❂T-ՃิՁণຮี•✯
- Virus Kitty by A-jang
-   ID.Line:chivaree
- .....................
+✯•ֆҽℓƒ-β❂T-ՃิՁণຮี•✯
+Virus Kitty by A-jang
+ID.Line:chivaree
+....................
