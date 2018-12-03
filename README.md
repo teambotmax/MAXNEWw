@@ -1,5 +1,5 @@
 💗•💗 HEŁŁO KITTY 💗•💗
-    ✯•β❂T-ՃิՁণຮี•✯     
+
 1. apt update
 2. apt upgrade
 3. pkg install python3
@@ -22,7 +22,5 @@
 20. nano kitty.py
 21. python3 kitty.py
  
-💗💗💗💗💗💗💗💗💗
-🔶ไวรัสแห่งความน่ารัก🔶
 ✯•ֆҽℓƒ-β❂T-ՃิՁণຮี•✯
 * by:Cr.Chivaree®...
