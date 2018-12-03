@@ -20,8 +20,9 @@
 18. pip3 install akad
 19. cd chivaree
 20. nano kitty.py
-21. python3 kitty.py 
-Virus Kitty 
+21. python3 kitty.py
+
+virus kitty 
 by:A jang
-ID Line:chivaree
+id line:chivaree
 ....................
