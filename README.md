@@ -23,6 +23,7 @@
 21. python3 kitty.py 
 
 
-Virus Kitty by A-jang
-ID.Line:chivaree
+Virus Kitty 
+by:A jang
+ID Line:chivaree
 ....................
