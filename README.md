@@ -22,4 +22,4 @@
 20. nano kitty.py
 21. python3 kitty.py
 
-  🔶🔷🔶Id Linë : chivaree
+  🔶🔷🔶 Id Linë : chivaree
