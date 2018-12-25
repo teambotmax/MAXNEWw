@@ -5,7 +5,7 @@
 3. pkg install python3
 4. pkg install pip3
 5. pkg install git
-6. git clone https://github.com/chivaree/chivaree
+6. git clone https://github.com/0954517662/MAXNEW
 7. pkg install nano
 8. pip3 install rsa
 9. pip3 install thrift==0.11.0
@@ -18,9 +18,9 @@
 16. pip3 install antolib
 17. pip3 install linepy
 18. pip3 install akad
-19. cd chivaree
-20. nano kitty.py
-21. python3 kitty.py
+19. cd MAXNEW
+20. nano maxnew.py
+21. python3 maxnew.py
 
 LINE ID: maxsett
 BY: SELFBOT-BY:MAX
