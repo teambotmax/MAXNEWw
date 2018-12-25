@@ -1,4 +1,4 @@
-  💗•💗 HEŁŁO KITTY 💗•💗
+# 🕵 SELFBOT-BY:MAX 🕵
 
 1. apt update
 2. apt upgrade
@@ -22,4 +22,5 @@
 20. nano kitty.py
 21. python3 kitty.py
 
-  🔶🔷🔶 Id Linë : chivaree
+LINE ID: maxsett
+BY: SELFBOT-BY:MAX
